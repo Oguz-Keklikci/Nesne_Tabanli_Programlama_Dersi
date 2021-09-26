@@ -38,8 +38,6 @@ namespace hafta3_uygulama11
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Checked = true;
-            this.checkBox1.CheckState = System.Windows.Forms.CheckState.Checked;
             this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.checkBox1.Location = new System.Drawing.Point(165, 133);
             this.checkBox1.Name = "checkBox1";
@@ -74,9 +72,8 @@ namespace hafta3_uygulama11
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label3.Location = new System.Drawing.Point(578, 201);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(109, 51);
+            this.label3.Size = new System.Drawing.Size(0, 51);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Açık";
             // 
             // Form1
             // 
